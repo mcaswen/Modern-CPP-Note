@@ -198,8 +198,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be1d69f122360de7",
+  "active": "298be65d5af258eb",
   "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
     "现代C++特性/左值（引用）与右值（引用）.md",
     "现代C++特性/（类的构造中的） 移动语义.md",
     "现代C++特性",
